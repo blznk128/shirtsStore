@@ -1,0 +1,21 @@
+/* .header {
+    padding: 60px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin-top: 20px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5d3cb13b96f9ac0001e89cf6/1578338468978-4U1LVRPRLU2B83UR77BX/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/Smith-Woods-trees.JPG?format=2500w);
+    background-color: rgba(255, 0, 0, 0.6);
+    opacity: .5;
+  } */
+
+.header {
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://images.squarespace-cdn.com/content/v1/5d3cb13b96f9ac0001e89cf6/1578338468978-4U1LVRPRLU2B83UR77BX/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/Smith-Woods-trees.JPG?format=2500w);
+    background-size: cover;
+    height: 100%;
+    max-height: 350px;
+    min-height: 200px;
+    text-align: center;
+    padding: 80px;
+    color: burlywood;
+}
